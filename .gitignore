@@ -1,0 +1,6 @@
+Whatbot/
+tempCodeRunnerFile.py
+*.pyc
+__pycache__
+ngrok
+.vscode

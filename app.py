@@ -20,7 +20,7 @@ def reply():
     elif body == 'Bye':
         resp.message("Goodbye")
     elif body == 'Hi':
-        resp.message('Hello Pavan')
+        resp.message('Hello user....')
 
     return str(resp)
 
